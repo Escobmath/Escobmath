@@ -1,6 +1,6 @@
 ### Olá, tudo bem? Eu sou o Matheus Escobar!!
 
-Eu sou um profissional de TI em transição, atualmente trabalho com infra e quero mudar, aprender mais, me tornando um dev.
+Eu sou um profissional de TI em transição, pois me formei como técnico em informática para internet e assim me qualifiquei na construção de sites mas quando entrei no mercado de trabalho tive oportunidade apenas em atuar com infra e quero mudar isso, agora vejo que preciso me focar mais e aprender mais, me tornando um dev mais completo e melhor.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Escobmath&show_icons=true)
 
